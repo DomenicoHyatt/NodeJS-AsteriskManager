@@ -1,5 +1,5 @@
 /*
-#* NodeJS Asterisk Manager API
+**#NodeJS Asterisk Manager API
  * (Based on https://github.com/mscdex/node-asterisk.git)
  * But radically altered thereafter so as to constitute a new work.
  *
@@ -8,4 +8,4 @@
  */
 
  module.exports = require('./lib/ami.js');
- 
+  
